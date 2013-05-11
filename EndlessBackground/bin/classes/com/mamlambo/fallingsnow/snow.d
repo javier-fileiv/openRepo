@@ -1,0 +1,22 @@
+/home/javier/sourceCode/android-projects/FallingSnow/res/raw/snow.bc \
+  /home/javier/sourceCode/android-projects/FallingSnow/gen/com/mamlambo/fallingsnow/ScriptC_snow.java \
+  /home/javier/sourceCode/android-projects/FallingSnow/gen/com/mamlambo/fallingsnow/ScriptField_VpConsts.java \
+  /home/javier/sourceCode/android-projects/FallingSnow/gen/com/mamlambo/fallingsnow/ScriptField_Snow.java: \
+  /home/javier/sourceCode/android-projects/FallingSnow/src/com/mamlambo/fallingsnow/snow.rs \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_core.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_types.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/clang-include/stdbool.h \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_allocation.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_atomic.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_cl.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_debug.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_element.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_math.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_matrix.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_object.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_quaternion.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_sampler.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_time.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_graphics.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_mesh.rsh \
+  /home/javier/eclipse/sdk/platform-tools/renderscript/include/rs_program.rsh
