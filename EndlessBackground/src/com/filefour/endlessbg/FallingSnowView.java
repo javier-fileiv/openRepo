@@ -1,4 +1,4 @@
-package com.mamlambo.fallingsnow;
+package com.filefour.endlessbg;
 
 
 import android.content.Context;

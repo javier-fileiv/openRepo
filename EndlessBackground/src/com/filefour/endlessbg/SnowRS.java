@@ -1,4 +1,9 @@
-package com.mamlambo.fallingsnow;
+package com.filefour.endlessbg;
+
+import com.mamlambo.fallingsnow.R;
+import com.mamlambo.fallingsnow.ScriptC_snow;
+import com.mamlambo.fallingsnow.ScriptField_Snow;
+import com.mamlambo.fallingsnow.ScriptField_VpConsts;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;

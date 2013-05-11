@@ -1,5 +1,7 @@
-package com.mamlambo.fallingsnow;
+package com.filefour.endlessbg;
 
+
+import com.mamlambo.fallingsnow.R;
 
 import android.app.Activity;
 import android.content.Intent;
